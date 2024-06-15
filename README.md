@@ -13,7 +13,7 @@
 
 ## 技术栈
 - 后端：Go, GORM
-- 数据库：MySQL
+- 数据库：MySQL8.0
 - 前端：Vue.js, ElementUI
 - 其他： Nginx
 ### 技术交流
