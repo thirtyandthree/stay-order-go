@@ -16,7 +16,9 @@
 - 数据库：MySQL
 - 前端：Vue.js, ElementUI
 - 其他： Nginx
-
+### 技术交流
+不会的可以加群，大家一起交流技术
+![管理端截图](https://qiniu.staykoi.asia/github/%E5%B0%8F%E7%A8%8B%E5%BA%8F/qrcode_1718418622537.jpg)
 ## 安装和运行
 
 ### 前端部分
