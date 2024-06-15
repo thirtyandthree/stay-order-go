@@ -1,0 +1,12 @@
+wechat:
+# 小程序的
+  app_id: ""
+  app_secret: ""
+
+  # 这里配置支付的信息
+  mch_id: "" # 商户号
+  mch_key: "" # apiV3 密钥
+  mch_number: "" # 证书序列号
+  private_key: "apiclient_key.pem" # 生成的证书文件中的apiclient_key.pem所在路径
+  domain: "http://localhost:8080" # 这里是后端主机，默认自己
+  port: "8081" # 这里是请求端口，默认自己
